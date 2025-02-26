@@ -1,0 +1,2 @@
+/* use case 2 : compute difference between dischtime and admittime to compute LOS.*/
+
